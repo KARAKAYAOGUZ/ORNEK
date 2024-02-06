@@ -1,0 +1,2 @@
+# ORNEK
+örnek çalışma
